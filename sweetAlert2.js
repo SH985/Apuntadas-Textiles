@@ -4,5 +4,6 @@ swal.fire({
   backdrop: "true",
   toast:"true",
   position:"top",
-  icon:"succes",
+  icon: "success",
+  confirmButtonText: "ok",
 });
