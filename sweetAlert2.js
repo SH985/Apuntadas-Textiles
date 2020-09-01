@@ -1,5 +1,5 @@
 swal.fire({
-  title: "Bienvenido",
+  text: "Bienvenido",
   paddin: "1rem",
   backdrop: "true",
   toast:"true",
