@@ -4,5 +4,5 @@ swal.fire({
   backdrop: "true",
   toast:"true",
   position:"top",
-  icon: "info",
+  icon: "succes",
 });
